@@ -1,0 +1,11 @@
+Model: Faster R-CNN ResNet50
+LR: 0.005
+Epochs: 1
+Batch: 1
+Precision: 0.5000
+Recall: 0.7600
+F1: 0.6032
+TruePos: 19
+FalsePos: 19
+FalseNeg: 6
+Training Time: 3.82 min

@@ -1,0 +1,7 @@
+images
+venv/ 
+__pycache__
+*.log
+logs/
+.DS_STORE
+*.pth
